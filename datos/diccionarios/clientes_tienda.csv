@@ -1,0 +1,9 @@
+variable,tipo,descripcion,categorias_o_unidad
+id_cliente,categórica,Identificador del cliente,C1000–C1599
+region,categórica,Zona de residencia,"Norte, Sur, Centro, Oriente"
+genero,categórica,Género registrado en el perfil,"Femenino, Masculino"
+tipo_membresia,categórica,Nivel del programa de fidelización,"Bronce, Plata, Oro"
+edad,numérica,Edad al afiliarse,años
+antiguedad_meses,numérica,Meses desde la afiliación,meses
+frecuencia_compra_mensual,numérica,Compras en un mes típico,compras/mes
+gasto_mensual,numérica,Gasto en un mes típico,pesos colombianos

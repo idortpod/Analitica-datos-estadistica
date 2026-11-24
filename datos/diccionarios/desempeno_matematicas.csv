@@ -1,0 +1,34 @@
+variable,tipo,descripcion,categorias_o_unidad
+escuela,categórica,Colegio,"GP = Gabriel Pereira, MS = Mousinho da Silveira"
+sexo,categórica,Sexo,"femenino, masculino"
+edad,numérica,Edad,años
+tipo_direccion_residencia,categórica,Zona de residencia,"urbana, rural"
+tamano_familia,categórica,Tamaño de la familia,"hasta_3, mas_de_3"
+estado_cohabitacion_padres,categórica,Convivencia de los padres,"juntos, separados"
+educacion_madre,numérica,Nivel educativo de la madre (ordinal),"0 ninguno, 1 primaria básica, 2 primaria, 3 secundaria, 4 superior"
+educacion_padre,numérica,Nivel educativo del padre (ordinal),"0–4, igual que la madre"
+trabajo_madre,categórica,Ocupación de la madre,"docente, salud, servicios, hogar, otro"
+trabajo_padre,categórica,Ocupación del padre,"docente, salud, servicios, hogar, otro"
+motivo_eleccion_escuela,categórica,Motivo para elegir el colegio,"programa, cercania_al_hogar, reputacion, otro"
+tutor_estudiante,categórica,Acudiente,"madre, padre, otro"
+tiempo_desplazamiento_escuela,numérica,Tiempo de desplazamiento (ordinal),"1 <15 min, 2 15–30, 3 30–60, 4 >60"
+tiempo_estudio_semanal,numérica,Tiempo de estudio semanal (ordinal),"1 <2 h, 2 2–5 h, 3 5–10 h, 4 >10 h"
+fracasos_escolares_previos,numérica,Asignaturas reprobadas antes,0–3 (3 = 3 o más)
+apoyo_educativo_escolar_extra,categórica,Recibe apoyo extra del colegio,"si, no"
+apoyo_educativo_familiar,categórica,Recibe apoyo educativo familiar,"si, no"
+clases_pagadas_extra_materia,categórica,Toma clases pagadas de matemáticas,"si, no"
+actividades_extracurriculares,categórica,Hace actividades extracurriculares,"si, no"
+asistio_guarderia,categórica,Asistió a preescolar,"si, no"
+desea_educacion_superior,categórica,Quiere estudios superiores,"si, no"
+internet_en_casa,categórica,Tiene internet en casa,"si, no"
+relacion_romantica,categórica,Tiene relación de pareja,"si, no"
+calidad_relaciones_familiares,numérica,Calidad de las relaciones familiares,1 muy mala – 5 excelente
+tiempo_libre_despues_escuela,numérica,Tiempo libre después del colegio,1 muy poco – 5 mucho
+salidas_con_amigos,numérica,Frecuencia de salidas con amigos,1 muy baja – 5 muy alta
+consumo_alcohol_dias_laborales,numérica,Consumo de alcohol entre semana,1 muy bajo – 5 muy alto
+consumo_alcohol_fin_de_semana,numérica,Consumo de alcohol en fin de semana,1 muy bajo – 5 muy alto
+estado_salud_actual,numérica,Estado de salud autorreportado,1 muy malo – 5 muy bueno
+ausencias_escolares,numérica,Número de ausencias,días
+nota_primer_periodo,numérica,Nota del primer periodo,0–20
+nota_segundo_periodo,numérica,Nota del segundo periodo,0–20
+nota_final,numérica,Nota final,0–20

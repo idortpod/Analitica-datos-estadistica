@@ -1,0 +1,5 @@
+variable,tipo,descripcion,categorias_o_unidad
+id_prenda,categórica,Identificador de la prenda,P2000–P2999
+gramaje_tela,numérica,Peso de la tela por unidad de área,g/m²
+defectos_costura,numérica,Defectos visibles de costura por prenda,conteo
+color_conforme,categórica,El color está dentro de la tolerancia,"Si, No"

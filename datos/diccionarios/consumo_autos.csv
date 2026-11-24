@@ -1,0 +1,11 @@
+variable,tipo,descripcion,categorias_o_unidad
+millas_por_galon,numérica,Rendimiento de combustible,millas por galón EE.UU.
+km_por_litro,numérica,Rendimiento convertido,km/L
+cilindros,numérica,Número de cilindros del motor,3–8
+cilindrada_pulg3,numérica,Cilindrada del motor,pulgadas cúbicas
+potencia_hp,numérica,Potencia del motor,caballos de fuerza
+peso_lb,numérica,Peso del vehículo,libras
+aceleracion_0_60_s,numérica,Tiempo para acelerar de 0 a 60 mph,segundos
+anio_modelo,numérica,Año del modelo,1970–1982
+origen,categórica,Región de fabricación,"EE.UU., Europa, Japón"
+modelo,categórica,Marca y modelo del vehículo,texto

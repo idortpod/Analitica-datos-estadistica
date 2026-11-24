@@ -1,0 +1,8 @@
+variable,tipo,descripcion,categorias_o_unidad
+edad,numérica,Edad del asegurado,años
+sexo,categórica,Sexo,"femenino, masculino"
+indice_masa_corporal,numérica,Índice de masa corporal,kg/m²
+numero_hijos_o_dependientes,numérica,Hijos o dependientes cubiertos,0–5
+fumador,categórica,Es fumador,"si, no"
+region,categórica,Región de residencia en EE.UU.,"noreste, noroeste, sureste, suroeste"
+cargos_seguro_medico,numérica,Cargos médicos anuales facturados,USD

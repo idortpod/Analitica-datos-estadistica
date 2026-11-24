@@ -1,0 +1,3 @@
+variable,tipo,descripcion,categorias_o_unidad
+proveedor,categórica,Proveedor de la bobina de acero de la cual se obtuvo la probeta utilizada en el ensayo.,"Andes, Central, Pacifico"
+resistencia_traccion_mpa,numérica,Resistencia máxima alcanzada por la probeta durante el ensayo de tracción.,MPa

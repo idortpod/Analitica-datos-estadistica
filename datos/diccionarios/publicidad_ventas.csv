@@ -1,0 +1,5 @@
+variable,tipo,descripcion,categorias_o_unidad
+inversion_tv,numérica,Presupuesto de publicidad en televisión,miles de USD
+inversion_radio,numérica,Presupuesto en radio,miles de USD
+inversion_prensa,numérica,Presupuesto en prensa,miles de USD
+ventas,numérica,Ventas del producto,miles de unidades

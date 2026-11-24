@@ -1,0 +1,4 @@
+variable,tipo,descripcion,categorias_o_unidad
+consumo_energia_kwh,numérica,Energía eléctrica total consumida durante el turno de producción.,kWh por turno
+consumo_agua_m3,numérica,Volumen total de agua utilizado durante el turno en actividades de producción y limpieza.,m³ por turno
+numero_interrupciones,numérica,Número de interrupciones no programadas de corta duración registradas durante el turno.,interrupciones por turno

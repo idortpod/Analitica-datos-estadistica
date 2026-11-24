@@ -1,0 +1,10 @@
+variable,tipo,descripcion,categorias_o_unidad
+cemento_kg_m3,numérica,Cemento en la mezcla,kg/m³
+escoria_alto_horno_kg_m3,numérica,Escoria de alto horno,kg/m³
+ceniza_volante_kg_m3,numérica,Ceniza volante,kg/m³
+agua_kg_m3,numérica,Agua,kg/m³
+superplastificante_kg_m3,numérica,Superplastificante,kg/m³
+agregado_grueso_kg_m3,numérica,Agregado grueso,kg/m³
+agregado_fino_kg_m3,numérica,Agregado fino,kg/m³
+edad_dias,numérica,Edad de curado,días
+resistencia_compresion_concreto_mpa,numérica,Resistencia a la compresión,MPa

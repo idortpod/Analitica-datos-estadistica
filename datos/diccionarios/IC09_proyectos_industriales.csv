@@ -1,0 +1,6 @@
+variable,tipo,descripcion,categorias_o_unidad
+cumplimiento_cronograma,categórica,Clasificación del resultado del proyecto respecto al cronograma originalmente aprobado.,"A tiempo, Retraso moderado, Retraso alto"
+complejidad_proyecto,categórica,Nivel de complejidad asignado al proyecto durante su planeación inicial.,"Baja, Media, Alta"
+esquema_equipo,categórica,Modalidad predominante utilizada para conformar el equipo responsable del proyecto.,"Interno, Mixto, Tercerizado"
+cambios_alcance,numérica,Número de modificaciones formales al alcance aprobadas durante la ejecución del proyecto.,cambios aprobados por proyecto
+presupuesto_inicial_millones,numérica,Presupuesto total aprobado para el proyecto al comienzo de su ejecución.,millones de pesos colombianos

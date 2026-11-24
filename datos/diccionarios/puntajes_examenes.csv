@@ -1,0 +1,5 @@
+variable,tipo,descripcion,categorias_o_unidad
+genero,categórica,Género del estudiante,"femenino, masculino"
+puntaje_matematicas,numérica,Puntaje en matemáticas,0–100
+puntaje_lectura,numérica,Puntaje en lectura,0–100
+puntaje_escritura,numérica,Puntaje en escritura,0–100

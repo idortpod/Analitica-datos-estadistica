@@ -1,0 +1,4 @@
+variable,tipo,descripcion,categorias_o_unidad
+quiebres_inventario_pct,numérica,Proporción de eventos de demanda del periodo que no pudieron ser atendidos completamente con el inventario disponible.,%
+variabilidad_demanda_pct,numérica,Coeficiente de variación de la demanda semanal del producto durante el periodo analizado.,%
+costo_unitario_miles,numérica,Costo unitario promedio de adquisición del producto durante el periodo.,miles de pesos colombianos por unidad

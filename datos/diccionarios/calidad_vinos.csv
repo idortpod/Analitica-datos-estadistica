@@ -1,0 +1,14 @@
+variable,tipo,descripcion,categorias_o_unidad
+tipo_de_vino,categórica,Tipo de vino,"tinto, blanco"
+acidez_fija_g_acido_tartarico_dm3,numérica,Acidez fija,g de ácido tartárico/dm³
+acidez_volatil_g_acido_acetico_dm3,numérica,Acidez volátil,g de ácido acético/dm³
+acido_citrico_g_dm3,numérica,Ácido cítrico,g/dm³
+azucar_residual_g_dm3,numérica,Azúcar residual,g/dm³
+cloruros_g_cloruro_sodio_dm3,numérica,Cloruros,g de cloruro de sodio/dm³
+dioxido_azufre_libre_mg_dm3,numérica,Dióxido de azufre libre,mg/dm³
+dioxido_azufre_total_mg_dm3,numérica,Dióxido de azufre total,mg/dm³
+densidad_g_cm3,numérica,Densidad,g/cm³
+ph,numérica,pH,escala de pH
+sulfatos_g_sulfato_potasio_dm3,numérica,Sulfatos,g de sulfato de potasio/dm³
+alcohol_porcentaje_volumen,numérica,Contenido de alcohol,% vol.
+calidad,numérica,Calificación sensorial (mediana de catadores),0–10

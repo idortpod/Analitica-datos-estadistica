@@ -1,0 +1,5 @@
+variable,tipo,descripcion,categorias_o_unidad
+frecuencia_cardiaca_lpm,numérica,Frecuencia cardiaca registrada durante la observación del puesto de trabajo.,latidos por minuto (lpm)
+temperatura_ambiente_c,numérica,Temperatura ambiental registrada en el puesto durante la observación.,°C
+tiempo_postura_estatica_min,numérica,Tiempo continuo durante el cual el trabajador había mantenido una postura predominantemente estática.,minutos
+nivel_ruido_dba,numérica,Nivel de presión sonora registrado en el puesto de trabajo durante la observación.,dBA

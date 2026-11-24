@@ -1,0 +1,4 @@
+variable,tipo,descripcion,categorias_o_unidad
+cumplimiento_despacho,categórica,Clasificación de la orden según el cumplimiento de la hora programada de despacho.,"A tiempo, Retraso moderado, Retraso severo"
+turno_preparacion,categórica,Turno en el que se realizó principalmente la preparación de la orden.,"Mañana, Tarde, Noche, Madrugada"
+zona_almacen,categórica,Zona de almacenamiento de la que provino la mayor proporción de productos incluidos en la orden.,"Zona A, Zona B, Zona C, Zona D, Zona E"

@@ -1,0 +1,11 @@
+variable,tipo,descripcion,categorias_o_unidad
+longitud,numérica,Longitud geográfica del bloque,grados
+latitud,numérica,Latitud geográfica del bloque,grados
+edad_mediana_vivienda_anios,numérica,Edad mediana de las viviendas,años (tope 52)
+total_habitaciones,numérica,Total de habitaciones del bloque,habitaciones
+total_dormitorios,numérica,Total de dormitorios del bloque,dormitorios
+poblacion,numérica,Población del bloque,personas
+hogares,numérica,Número de hogares,hogares
+ingreso_mediano_decenas_miles_usd,numérica,Ingreso mediano de los hogares,decenas de miles de USD
+valor_mediano_vivienda_usd,numérica,Valor mediano de la vivienda,USD (tope 500.001)
+proximidad_oceano,categórica,Ubicación respecto al océano,"menos_de_1h_del_oceano, interior, isla, cerca_de_la_bahia, cerca_del_oceano"

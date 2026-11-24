@@ -1,0 +1,6 @@
+variable,tipo,descripcion,categorias_o_unidad
+temperatura_ambiente_celsius,numérica,Temperatura ambiente,°C
+vacio_escape_cm_hg,numérica,Vacío del escape,cm Hg
+presion_ambiente_milibar,numérica,Presión ambiente,mbar
+humedad_relativa_porcentaje,numérica,Humedad relativa,%
+energia_electrica_neta_mw,numérica,Producción neta de energía por hora,MW

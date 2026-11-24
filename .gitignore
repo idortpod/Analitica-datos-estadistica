@@ -1,0 +1,27 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Archivos temporales de Office (Excel/Word abiertos)
+~$*
+
+# Salidas locales al calificar o ejecutar talleres (no se versionan)
+entregas/
+resultados/
+**/estudiante/tests/
+Respuestas_Laboratorio_*.docx

@@ -1,0 +1,12 @@
+variable,tipo,descripcion,categorias_o_unidad
+identificador_producto,categórica,Código del producto,texto
+peso_producto,numérica,Peso del producto,kg
+contenido_grasa_producto,categórica,Contenido de grasa,"bajo_en_grasa, regular"
+visibilidad_producto,numérica,Proporción del área de exhibición de la tienda asignada al producto,0–1
+tipo_producto,categórica,Categoría del producto,16 categorías
+precio_maximo_minorista,numérica,Precio máximo de venta al público (MRP),rupias
+identificador_tienda,categórica,Código de la tienda,OUT010–OUT049
+anio_establecimiento_tienda,numérica,Año de apertura de la tienda,1985–2009
+tamano_tienda,categórica,Tamaño de la tienda,"pequena, mediana, grande, sin_dato"
+tipo_ubicacion_tienda,categórica,Tipo de ciudad,"nivel_1, nivel_2, nivel_3"
+tipo_tienda,categórica,Formato de la tienda,"tienda_de_comestibles, supermercado_tipo_1, _2, _3"

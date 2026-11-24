@@ -1,0 +1,17 @@
+variable,tipo,descripcion,categorias_o_unidad
+indice_registro,numérica,Consecutivo del registro,1–731
+fecha,categórica,Fecha,AAAA-MM-DD
+estacion,categórica,Estación del año,"invierno, primavera, verano, otono"
+anio,numérica,Año,"2011, 2012"
+mes,categórica,Mes,enero–diciembre
+dia_festivo,categórica,Es festivo,"si, no"
+dia_semana,categórica,Día de la semana,lunes–domingo
+dia_laboral,categórica,Es día laboral,"si, no"
+situacion_climatica,categórica,Clima del día,"despejado_o_parcialmente_nublado, bruma_o_nublado, lluvia_ligera_o_nieve_ligera"
+temperatura_normalizada_celsius,numérica,Temperatura normalizada,(t °C + 8)/47
+sensacion_termica_normalizada_celsius,numérica,Sensación térmica normalizada,(t °C + 16)/66
+humedad_normalizada,numérica,Humedad relativa normalizada,%/100
+velocidad_viento_normalizada,numérica,Velocidad del viento normalizada,v/67
+usuarios_casuales,numérica,Alquileres de usuarios no registrados,bicicletas/día
+usuarios_registrados,numérica,Alquileres de usuarios registrados,bicicletas/día
+total_bicicletas_alquiladas,numérica,Total de alquileres,bicicletas/día

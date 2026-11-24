@@ -1,0 +1,2 @@
+variable,tipo,descripcion,categorias_o_unidad
+unidades_producidas,numérica,Número de unidades terminadas que superaron satisfactoriamente la inspección al finalizar la jornada.,unidades por operario-jornada

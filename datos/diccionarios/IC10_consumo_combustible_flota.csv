@@ -1,0 +1,7 @@
+variable,tipo,descripcion,categorias_o_unidad
+consumo_combustible_l_100km,numérica,"Consumo de combustible registrado durante el viaje, normalizado por cada 100 kilómetros recorridos.",L/100 km
+tipo_vehiculo,categórica,Clase de vehículo utilizado para realizar el viaje de distribución.,"Camion liviano, Camion mediano, Camion pesado"
+perfil_ruta,categórica,Caracterización general del relieve predominante en la ruta recorrida.,"Plana, Mixta, Montañosa"
+dia_semana,categórica,Día de la semana en el que se inició el viaje.,"Lunes, Martes, Miercoles, Jueves, Viernes, Sabado"
+carga_promedio_ton,numérica,Carga promedio transportada por el vehículo durante el recorrido.,toneladas
+experiencia_conductor_anios,numérica,Tiempo acumulado de experiencia profesional del conductor en actividades de conducción de vehículos de carga.,años

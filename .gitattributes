@@ -1,0 +1,11 @@
+# Normaliza finales de línea en archivos de texto
+* text=auto eol=lf
+
+# Archivos binarios: sin conversión ni diffs de texto
+*.pdf  binary
+*.xlsx binary
+*.zip  binary
+*.png  binary
+
+# GitHub: cuenta los notebooks como Python/R en las estadísticas del repositorio
+*.ipynb linguist-detectable
